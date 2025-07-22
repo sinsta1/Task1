@@ -22,4 +22,5 @@ This is a web scraping tool written in Go that fetches product data from BlinkIt
 
 ## 📍 How It Works
 
-- Makes a `POST` request to:
+- Makes a `POST` request to
+- Everything is hard coded just for the simplicity of assignment just run command go run main.go but you have to change the headers according to your session on blinkit and changes will be save to csv file if anything needs to be clarified just contact at japmansingh.jsr@gmail.com/8273995936
